@@ -7,5 +7,7 @@
 *** Step3: <br/>
 
 
+*** 2021/7/6 ~ 2021/8/1 Busy for self-development
+
 *** Teaching Source: Harvard CS50X, CS50's Introduction to Computer Science <br/>
 *** Link: https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home <br/>
